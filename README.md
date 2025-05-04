@@ -1,0 +1,2 @@
+# scrapervomit
+python content aggregator
